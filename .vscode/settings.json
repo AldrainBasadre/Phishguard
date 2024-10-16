@@ -1,0 +1,16 @@
+{
+  "dart.flutterSdkPath": ".fvm/versions/3.24.3",
+  "cSpell.words": [
+    "apikey",
+    "ARGB",
+    "cupertino",
+    "LTRB",
+    "multiisolate",
+    "onnx",
+    "onnxruntime",
+    "Pausable",
+    "Readsms",
+    "typeahead",
+    "virustotal"
+  ]
+}
